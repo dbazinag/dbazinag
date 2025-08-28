@@ -1,10 +1,11 @@
 # Hi, I’m Dominic Bazina-Grolinger 👋
 
-🎓 Software Engineering @ Western University (Class of 2025) → MSc Computer Science @ EPFL (starting Fall 2025)  
-🏆 Graduated top of class — R. Mohan Mathur Gold Medal in Software Engineering  
-💰 Two-time Bill & Barbara Etherington Award winner (>$20,000 in scholarships)  
+🎓 MSc Computer Science @ EPFL • B.E.Sc. Software Engineering @ Western University (Class of 2025, GPA: 4.0/4.0)  
+🥇 **Graduated Top of Class** — R. Mohan Mathur Gold Medal in Software Engineering (#1 graduating student)  
+💰 Two-time Bill & Barbara Etherington Award — awarded to the **top 4 undergraduate researchers in Electrical & Computer Engineering** (> $20,000 total)  
 📝 First research paper **accepted (in press)** in EEG-based AI and brain-computer interfaces  
-💻 Passionate about **AI/ML, brain-computer interfaces, and autonomous systems** 
+💻 Passionate about **AI/ML, brain-computer interfaces, autonomous systems, and cybersecurity**
+
 
 ## 🚀 What I Work On
 - **EEG + AI Research** — BERT-based and CNN/LSTM models for EEG thought classification, quantization for edge devices, cross-subject generalization.  
@@ -27,7 +28,7 @@ Unity (C#) • Prisma • Vercel • Google Cloud APIs • Git/GitHub
 - Skiing, working out, and staying active outdoors ⛷️💪  
 - Always excited to collaborate on open research and high-impact projects  
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/dominic-bazina-grolinger) | [Email](mailto:dbazinag@gmail.com)
+📫 Reach me: [Email](mailto:dbazinag@gmail.com) | [LinkedIn](www.linkedin.com/in/dominic-bazina-grolinger) 
 <!--
 **dbazinag/dbazinag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
