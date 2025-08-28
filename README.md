@@ -1,7 +1,7 @@
 # Hi, I’m Dominic Bazina-Grolinger 👋
 
 🎓 MSc Computer Science @ EPFL • B.E.Sc. Software Engineering @ Western University (Class of 2025, GPA: 4.0/4.0)  
-🥇 **Graduated Top of Class** — R. Mohan Mathur Gold Medal in Software Engineering (#1 graduating student)  
+🥇 **Ranked #1 in Graduating Class** (4.0 GPA) — R. Mohan Mathur Gold Medal, Software Engineering @ Western  
 💰 Two-time Bill & Barbara Etherington Award — awarded to the **top 4 undergraduate researchers in Electrical & Computer Engineering** (> $20,000 total)  
 📝 First research paper **accepted (in press)** in EEG-based AI and brain-computer interfaces  
 💻 Passionate about **AI/ML, brain-computer interfaces, autonomous systems, and cybersecurity**
